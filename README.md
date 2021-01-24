@@ -19,4 +19,4 @@ This is a deployment text
 
 ### Copyright
 
-This is a copyright text
+This is a copyright text for dummies
