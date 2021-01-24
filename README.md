@@ -24,4 +24,4 @@ This is a copyright text for dummies
 
 ### Dummy
 
-Added a dummy paraghraph
+Added a dummy text
