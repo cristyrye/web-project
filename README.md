@@ -21,3 +21,7 @@ Just don't
 ### Copyright
 
 This is a copyright text for dummies
+
+### Dummy
+
+Added a dummy paraghraph
