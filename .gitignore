@@ -1,2 +1,3 @@
 *.lubenita
 logs/
+*.orig
